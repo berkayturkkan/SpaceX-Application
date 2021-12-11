@@ -1,0 +1,14 @@
+com/projeronwell/MainActivity.java
+ com.projeronwell.MainActivity
+com/projeronwell/ReactNativeFlipper.java
+ com.projeronwell.ReactNativeFlipper
+ com.projeronwell.ReactNativeFlipper$1
+ com.projeronwell.ReactNativeFlipper$2
+ com.projeronwell.ReactNativeFlipper$2$1
+com/projeronwell/MainApplication.java
+ com.projeronwell.MainApplication
+ com.projeronwell.MainApplication$1
+com/projeronwell/BuildConfig.java
+ com.projeronwell.BuildConfig
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
